@@ -15,7 +15,7 @@ class Asidemiddle extends React.Component{
 						<li></li>
 						<li></li>
 						<li></li>
-						<li></li>
+						<li><span></span></li>
 					</ul>
 				</div>
 				<div className="bot">

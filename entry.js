@@ -3,7 +3,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import AsideLeft from './components/AsideLeft.js';
+import AsideLeft from './components/asideLeft.js';
 import Top from './components/top.js';
 import Log from './components/log.js';
 
@@ -27,5 +27,5 @@ class App extends React.Component{
 	}
 }
 
-ReactDOM.render(<App />, document.getElementById("box"));
+ReactDOM.render(<App />, document.getElementById("app"));
 

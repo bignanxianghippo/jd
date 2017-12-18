@@ -1,5 +1,5 @@
 import React from "react"
-import "../style/am.scss"
+import "../scss/am.scss"
 class Asidemiddle extends React.Component{
 	render(){
 		return(

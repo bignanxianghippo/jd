@@ -1,5 +1,5 @@
 import React from 'react';
-import "../style/at.scss"
+import "../scss/at.scss"
 class Asidetop extends React.Component{
 	render(){
 		return(

@@ -9,7 +9,7 @@ class Top extends React.Component{
 				<div className="top">
 					<div>
 						<span>北京</span>
-						<span className="iconfont icon-dizhi"></span>	
+						<span className="iconfont icon-dizhi" style={{color:"red"}}></span>	
 					</div>
 					<ul>
 						<li>你好，请登录<span>免费注册</span></li>

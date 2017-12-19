@@ -10,7 +10,7 @@ import Asidetop from "./components/asidetop.js"
 import Asidemiddle from "./components/asidemiddle.js"
 import AsideRight from "./components/aside-right.js"
 
-import './scss/style.scss';
+import './scss/al.scss';
 
 
 class App extends React.Component{
